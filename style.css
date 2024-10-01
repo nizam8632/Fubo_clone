@@ -1,0 +1,345 @@
+body{
+    padding: 0;
+    margin:0;
+    bottom:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent-div{
+    width: 100%;
+    height: 95.39px;
+    display: flex;
+    flex-direction: row;
+
+}
+.size{
+    width: 97.3px;
+    height: 72px;
+   
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.first{
+    height: 95.39px;
+    width: 50%;
+    
+}
+.second{
+    height: 95.39px;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 86px
+    
+}
+.nav{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    
+
+    
+
+}
+.nav-right a{
+    color: rgb(71, 63, 65);
+    text-decoration: none;
+
+
+}
+.nav-right{
+
+    display: flex;
+    gap: 59px;
+    font-size: 21px;
+    font-weight: 300;
+    padding-top: 23px;
+}
+.background{
+
+    height: 881.84px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(hundreds-que-up-as-iphone-15-series-goes-on-sale.webp);
+    background-size: cover;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+     
+}
+.center{
+    width: 900px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.center-image{
+    width: 600px;
+    height: 338.25px;
+   
+}
+.text{
+    color: #fff ;
+   
+}
+h3{
+    color: #fff;
+}
+.second-page-background{
+    width: 1349px;
+    height: 1028.16px;
+    background: linear-gradient(#F44519,#952840);
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+.second-page-center{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+
+
+}
+.video{
+    width:800px;
+    height: 450px;
+    /* background-color: black; */
+}
+.Mission{
+    color: #fff;
+}
+.thrid-page-background{
+
+    width: 1349px;
+    height: 767.75px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.third-inner-div{
+    width: 1000px;
+    height: 607.75px;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} 
+.image-div1{
+    width: 306.66PX;
+    height: 306.67PX;
+    background-color: aquamarine;
+    background-image: url(https://assets-imgx.fubo.tv/marketing/lp/images/corporate/culture/image1.jpg?w=512&ch=width&auto=format,compress);
+ border-radius: 50%;
+ background-size: cover;
+ background-position: center;
+
+}
+.image-div2{
+    width: 306.66PX;
+    height: 306.67PX;
+    background-color: blueviolet;  
+    background-image: url(https://assets-imgx.fubo.tv/marketing/lp/images/corporate/culture/image2.jpg?w=512&ch=width&auto=format,compress);
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+
+}
+.image-div3{
+    width: 306.66PX;
+    height: 306.67PX;
+    background-color: gold;
+    background-image: url(https://assets-imgx.fubo.tv/marketing/lp/images/corporate/culture/image3.jpg?w=512&ch=width&auto=format,compress);
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+
+}
+.image-container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+/* h4{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    line-height: 10px;
+} */
+.paragraph{
+    font-size: 20px;
+    gap: 20px;
+    text-align: center;
+    line-height: 50px;
+} 
+.fourth-page-div{
+    width: 100%;
+    height: 464.58px;
+    background-color: black;
+    /* line-height: 40px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: row;
+
+}
+.iner-div{
+    width: 1200px;
+    /* height: 201.75px; */
+    /* background-color: #952840; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.contact{
+    color: #fff;
+
+    
+}
+.contact-div{
+
+    width: 1200px;
+    height: 47.83px;
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.text-div{
+
+width: 1200px;
+height: 80px;
+/* background-color: #F44519; */
+font-weight: 800;
+font-size: 2.6rem;
+display: flex;
+justify-content: center;
+gap: 222px;
+margin-top: 20PX;
+}
+.text-div2{
+   
+width: 1200px;
+height: 80px;
+/* background-color:aqua;  */
+font-weight: 800;
+font-size: 2.6rem;
+display: flex;
+justify-content: center;
+gap: 222px;
+margin-top: 20PX;
+}
+H5{ 
+     color: #fff;
+    font-size:large;
+    font-weight: 300;
+    height: 0px;
+} 
+.first-layer{
+    width: 1200px;
+    height: 102.3px;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-right: 30px;
+}
+.second-layer{
+    width: 1200px;
+    height: 102.3px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.Affiliate-div{
+    width: 300px;
+    height: 67.8px;
+    /* background-color: #fff; */
+    
+}
+.Investor-Relations{
+    width: 300px;
+    height: 67.8px;
+    /* background-color: #915050; */
+}
+.Content-div{
+    width: 300px;
+    height: 67.8px;
+    /* background-color: #509160; */
+
+}
+.Fubo-Sports-Network{
+
+    width: 300px;
+    height: 67.8px;
+    /* background-color: #fff; */
+}
+.Press-div{
+
+    width: 300px;
+    height: 67.8px;
+    /* background-color: #915050; */
+
+}
+.Ad-Sales{
+    width: 300px;
+    height: 67.8px;
+}
+a{
+    color: #2F3233;
+}
+.footer{
+    width: 1349px;
+    height: 48PX;
+    background-color:#2f3033;
+     /* margin-top: -25px; */
+    
+    text-decoration-style: none;
+    display: flex;
+    justify-content: left;
+    
+    
+}
+.fubo{
+    font-size: large;
+    font: 400;
+    c
+}
+ .footer-one{
+    width: 50%;
+    padding: :left 30px;
+   
+    
+} 
+.footer-2{
+    width: 50%;
+    /* background-color: #F44519; */
+    
+}
+.ul-footer{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    padding-right: 30px;
+    color:#7B7C7D  ;
+    font-weight: 700;
+}
+.fubo-paragraph{
+    color: #fff;
+    font-weight: 500;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+
+
+
